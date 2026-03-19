@@ -31,13 +31,14 @@ The repository is structured as follows:
 - Visualization of how Greeks evolve with the underlying asset price
 
 ### 4. Butterfly Strategies
-- Long Butterfly Spreads
-- Short Butterfly Spreads
+- Strategies to profit from low-volatility environments
+- Strategies to profit from high-volatility environments
 
-### 5. Strangle and Delta Hedging
-- Simulation of a hedging strategy
-- Construction of a delta-neutral portfolio
-- Comparison between hedged and unhedged positions
+### 5. Straddle and Delta
+- Plots of Straddles
+- Conmputation of Delta
+- Definition of Delta-Hedging
+- Visualization of Straddle Greeks around the Strike Price
 
 ## Tools & Libraries
 
