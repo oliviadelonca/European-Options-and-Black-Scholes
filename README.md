@@ -40,6 +40,11 @@ The repository is structured as follows:
 - Definition of Delta-Hedging
 - Visualization of Straddle Greeks around the Strike Price
 
+### 6. Limits to BlackScholes : The Volatility Smile
+- Raw Visualization of volatility smile
+- Cleaned Visualization of volatility smile
+- SABR model
+
 ## Tools & Libraries
 
 - Python
