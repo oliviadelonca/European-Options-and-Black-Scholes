@@ -51,3 +51,4 @@ The repository is structured as follows:
 - NumPy
 - Matplotlib
 - SciPy
+- Yfinance
